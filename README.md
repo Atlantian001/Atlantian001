@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Atlantian001
 - 👀 I’m interested in Game Theory and Socio-economic Design
 - 🌱 I’m currently learning Python
-- 💞️ I’m currently working on Project Atlantis 
+- 💞️ I’m currently working on Atlantis Network Protocol 
 - 📫 How to reach me @irthusuresh (Twitter)
 
 <!---
